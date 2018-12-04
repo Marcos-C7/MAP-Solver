@@ -5,7 +5,7 @@
 #include <iostream>
 #include <fstream>
 #define REDEFINED_MATRIX "REDEFINED_MATRIX"
-
+//
 namespace Input{
 
 	void verify(std::ifstream &input, const char *fileName){
